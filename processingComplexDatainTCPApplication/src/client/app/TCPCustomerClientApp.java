@@ -23,7 +23,7 @@ public class TCPCustomerClientApp {
 		
 		try {
 			
-			System.out.println("\tExecuting TCPProductClientApp");
+			System.out.println("\tExecuting TCPCustomerClientApp");
 		
 			// Server information
 			int serverPortNo = 8088;
