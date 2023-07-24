@@ -37,7 +37,7 @@ public class TCPCustomerClientApp {
 			DataOutputStream dosOutput = new DataOutputStream(osOutput);
 			
 			// 2. Send request to the server
-			System.out.print("Enter customer name: ");
+			System.out.print("\tEnter customer name: ");
 			Scanner sc = new Scanner(System.in);
 			String customerName = sc.nextLine();
 			
